@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="es_ES" full_name="España (Español)">
+	
+	<!-- Theme description -->
+	<message key="plugins.themes.immersion.name">Tema Immersion</message>
+	<message key="plugins.themes.immersion.description">El tema para OJS 3</message>
+	
+	<!-- Section settings Form -->
+	<message key="plugins.themes.immersion.colorPick">Selector de color</message>
+	<message key="plugins.themes.immersion.colorPickInstructions">Elija un color para que dicha sección se despliegue en la interfaz de la revista. Debe ser un código hexadecimal HTML válido (ej., #ffff00 para el amarillo).</message>
+	<message key="plugins.themes.immersion.section.coverPage">Sección imagen de la portada</message>
+	
+</locale>
